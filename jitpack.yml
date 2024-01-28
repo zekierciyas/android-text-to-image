@@ -1,3 +1,4 @@
 install:
-  - FILE="-Dfile=library.aar"
-  - mvn install:install-file $FILE -DgroupId=com.zekierciyas.library -DartifactId=android-text-to-library -Dversion=1.0 -Dpackaging=aar -DgeneratePom=true
+  -  FILE="-Dfile=library.aar"
+  -  mvn install:install-file $FILE -DgroupId=com.zekierciyas.library -DartifactId=android-text-to-library -Dversion=1.0.4 -Dpackaging=aar -DgeneratePom=true
+
