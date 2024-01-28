@@ -11,7 +11,7 @@ In its basic usage flow, the library takes a meaningful string as input and retu
 <details><summary>Kotlin DSL</summary>
 
 ```gradle
-implementation ("com.github.zekierciyas:android-text-to-image:1.0.0")
+implementation ("com.github.zekierciyas:android-text-to-image:1.0.4")
 ```
 
 </details>
@@ -19,7 +19,7 @@ implementation ("com.github.zekierciyas:android-text-to-image:1.0.0")
 <details><summary>Groovy DSL</summary>
     
 ```gradle
-implementation 'com.github.zekierciyas:android-text-to-image:1.0.0'
+implementation 'com.github.zekierciyas:android-text-to-image:1.0.4'
 ```
 
 </details>
